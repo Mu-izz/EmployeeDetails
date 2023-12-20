@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#393E46;
+}
+
+
+.page1{
+    background-color: #00ADB5;
+    width: 700px;
+    margin-left: 540px;
+    margin-top: 65px;
+    height:750px;
+    padding: 50px;
+    border-radius: 25px;
+ }
+
+ .page1 h1{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 40px;
+ margin-top: 10px;
+ text-align: center;
+ color: #393E46;  
+ }
+
+ .page1 label{
+  font-family: 'Times New Roman', Times, serif;
+   font-size: 25px;
+ }
+
+.empNID{
+   width: 100%;
+   height: 23px;
+   border-radius: 3px;
+   margin: 10px;
+   font-size: 20px;
+ }
+
+.page1 select{
+  width: 190px;
+ }
+
+ .page1 h3{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-weight:500;
+ }
+
+  .gender{
+  font-size: medium;
+  background-color: #393E46;
+ }
+
+ .address{
+  width: 500px;
+  height: 70px;
+  border-radius: 3px;
+  margin: 10px;
+  font-size: 20px;
+ }
+
+ .page1 button{
+  height: 30px;
+  width: 75px;
+  background-color: #393E46;
+  color: #00ADB5;
+ }
+
+ table {
+  border-collapse: separate;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+th, td {
+  border: 1px solid#00ADB5;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color:#00ADB5;
+}
